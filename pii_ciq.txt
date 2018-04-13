@@ -1,0 +1,6 @@
+
+\f0\fs24 \cf0 Name			Tony Smith\
+Date of Birth	01-01-2014\
+SSN			555-55-5555\
+E-mail		tony.secure@gmail.com\
+Phone		408-781-2652}
